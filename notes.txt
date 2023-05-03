@@ -1,0 +1,25 @@
+= assignment operator
+identity= duita eutai operator ho ki haina check
+help("keywords")
+
+data types in python 
+-> numbers and lists
+bhako number lai change garna milne mutable change garna namilne immutable
+b.append=function used in list
+for binary 0b
+octal 0O
+array=homogenous
+list=heterogenous
+pop=index as parameter/return value
+index method index value k ho bhanera thapaune method
+list.index(x, start, end)
+list.sort(key=func,reverse=true )
+sort ko return type chaina traa existing list ma change
+reverse=True le descending order
+def= function banaune key
+list.reverse le sort nagari reverse ma dincha output
+data type ma non-empty are True
+integer ma 0 bahek sabai True
+emoty are False none are False
+
+\' = escape character
