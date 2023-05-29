@@ -32,7 +32,7 @@ print(name)
 
 roll_number = student.get('roll_number')
 print(roll_number) #This gives None. If the ket not present in the dictionary is provided to the get()
-# nethod then it returns None
+# method then it returns None
 
 #We can also provide a default value to the get() method
 roll = student.get("roll_number", 4) #Here 4 gives default value

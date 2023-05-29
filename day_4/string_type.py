@@ -63,7 +63,7 @@ def fxn(a, b):
 message = "Hello Wolrd"
 print(message[3]) #this gives 'l'
 print(message[6]) #this gives 'W'
-print(message[-2]) #negative indexing is also possible. It gives 'l'
+print(message[-2]) #negative indexing is also possible. It gives 'r'
 
 print(message[1:7]) #this gives 'ello W'
 print(message[1:-3:2]) #this gives 'el '
